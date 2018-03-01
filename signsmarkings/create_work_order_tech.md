@@ -9,29 +9,29 @@
 
 3. Complete New Work Order form:
     
-    - Work Groups: the Markings work group(s) that will complete the work. | Required.
+    - **Work Groups**: the Markings work group(s) that will complete the work. | Required.
     
-    - 311 SR #: The markings 311 service request number related to this work order. | Optional.
+    - **311 SR #**: The markings 311 service request number related to this work order. | Optional.
     
-    - Instructions and Comments: Description of the work to be completed and any additional comments | Required.
+    - **Instructions and Comments**: Description of the work to be completed and any additional comments | Required.
 
-    - Location Type: (Intersection / Section of Road / Specific Location ) | Required
+    - **Location Type**: (Intersection / Section of Road / Specific Location ) | Required
     
-    - Primary Street: The name of the primary street at which work will be completed. | Required
+    - **Primary Street**: The name of the primary street at which work will be completed. | Required
     
-    - Cross Street: The name of the cross street at which work will be completed | Required if Location Type is Intersection
+    - **Cross Street**: The name of the cross street at which work will be completed | Required if Location Type is Intersection
     
-    - From Street: The name of the first cross street that intersects with the primary street at which work will be completed | Required if Location Type is Section of Road
+    - **From Street**: The name of the first cross street that intersects with the primary street at which work will be completed | Required if Location Type is Section of Road
     
-    - To Street: The name of the second cross street that intersects with the primary street at which work will be completed | Required if Location Type is Section of Road
+    - **To Street**: The name of the second cross street that intersects with the primary street at which work will be completed | Required if Location Type is Section of Road
 
-    - Address or Block #: The street address or block number on the primary street at which work will be comleted | Required if Location Type is Specific Location
+    - **Address or Block #**: The street address or block number on the primary street at which work will be comleted | Required if Location Type is Specific Location
     
-    - Area: The region of the city in which the work will be completed (North / Central / South) | Required
+    - **Area**: The region of the city in which the work will be completed (North / Central / South) | Required
     
-    - School Nearby: Flag to indicate if there is a school nearby this work location | Required
+    - **School Nearby**: Flag to indicate if there is a school nearby this work location | Required
     
-    - Location Details: Addtional description of the location at which work will be completed | Optional
+    - **Location Details**: Addtional description of the location at which work will be completed | Optional
 
 4. Click the Create Work Order button to submit the form:
     - An email is automatically sent to the logged-in user confirming that a work order has been created
