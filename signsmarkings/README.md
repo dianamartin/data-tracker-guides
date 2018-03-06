@@ -7,3 +7,5 @@
 - [Create Work Order](https://github.com/cityofaustin/data-tracker-guides/blob/master/signsmarkings/create_work_order_non_tech.md) (Non-Technician)
 
 - [Find Work Tasks](https://github.com/cityofaustin/data-tracker-guides/blob/master/signsmarkings/find_tasks_tech.md) (Technician)
+
+- [Complete Work Task](https://github.com/cityofaustin/data-tracker-guides/blob/master/signsmarkings/complete_task_tech.md)
