@@ -13,10 +13,12 @@
 
 Each work order contains one or more **tasks** which are to be completed by individual workgroups (Long Line, Short Line, Specialty Markings, etc.). A task may have one of four statuses:
 
-- *NEW*: The task has not been issued to the workgroup.
-- *ISSUED*: The task is ready to be completed by the workgroup.
-- *COMPLETED*: The task has been completed by workgroup and submitted for review.
-- *HOLD*: The work order has been placed on hold.
+Status      | Description
+:---        | :--- 
+**NEW**       | The task has not been issued to the workgroup.
+**ISSUED**    | The task is ready to be completed by the workgroup.
+**COMPLETED** | The task has been completed by workgroup and submitted for review.
+**HOLD**      | The work order has been placed on hold.
 
 ## Create a Task
 
@@ -35,7 +37,7 @@ Tasks can be manually added to any work order, provided the work order is not **
 
 1. Visit the tasks landing page: http://transportation.austintexas.io/data-tracker/#home/work-tasks-markings/
 
-2. By default, the Tasks table displays tasks which have been ISSUED to work groups. Each row in the table represents a single tasks that must be completed, and the tasks are grouped by the workgroup assigned to the task. Additional tabs display work orders that are NEW, COMPLETED, and on HOLD.
+2. By default, the Tasks table displays tasks which have been ISSUED to work groups. Each row in the table represents a single tasks that must be completed, and the tasks are grouped by the workgroup assigned to the task. Additional tabs display tasks that are NEW, COMPLETED, and on HOLD.
 
 3. The search box at the top of the tasks table enabes searching by keyword. Partial words are accepted.
 
