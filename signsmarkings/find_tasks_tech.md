@@ -4,7 +4,7 @@
 
 **User Role Required**: Technician
 
-**Note**: Tasks have three statuses:
+**Note**: Tasks have four statuses:
 
 - *NEW*: The task has not been issued to the workgroup.
 - *ISSUED*: The task is ready to be completed by the workgroup.
