@@ -9,6 +9,7 @@
 - *NEW*: The task has not been issued to the workgroup.
 - *ISSUED*: The task is ready to be completed by the workgroup.
 - *COMPLETED*: The task has been completed by workgroup and submitted for review.
+- *HOLD*: The work order has but placed on hold.
 
 1. Login: http://transportation.austintexas.io/data-tracker/#home/work-tasks-markings/
 
