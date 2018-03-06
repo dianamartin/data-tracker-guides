@@ -14,6 +14,10 @@
 
 3. To add an entry for any section of the **Task Details**, complete the form fields in the section, then click the blue button to submit the form. A green confirmation message will confirm that the entry was successfully submitted, and a new row will display in that section's entry table.
 
+    ![Add Specification](https://raw.githubusercontent.com/cityofaustin/data-tracker-guides/master/images/add_specification.png)
+    *The Specifications section with a successfully-submitted entry*
+
+
 4. Continue to add entries for Time, Specifications, and Materials as needed. Once at least one entry has been submitted for each section of the work order, it is possible to mark the task as completed. 
 
 5. To complete the work task, click the **Complete Task** button at the top of the **Task Details** page.  From the confirmation window that appears, click the blue **Complete Task** button to mark the task as completed.
