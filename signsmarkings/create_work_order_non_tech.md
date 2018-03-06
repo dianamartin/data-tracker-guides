@@ -2,7 +2,7 @@
 
 #  Create New Work Order (Non-Technician)
 ##### User Role Required: Viewer
-##### See also: [Create Work Order (Non-Technician)](create_work_order_tech.md)
+##### See also: [Create Work Order (Technician)](create_work_order_tech.md)
 
 1. Login: http://transportation.austintexas.io/data-tracker/#home/work-orders-markings/
 
