@@ -4,7 +4,7 @@
 ##### User Role Required: Technician
 ##### See also: [Create Work Order (Non-Technician)](create_work_order_non_tech.md)
 
-1. Login: http://transportation.austintexas.io/data-tracker/#home/work-tasks-markings/
+1. Login: http://transportation.austintexas.io/data-tracker/#home/work-orders-markings/
 
 2. Click "New Work Order" button.
 
