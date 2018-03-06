@@ -20,7 +20,7 @@ Work Orders are the process by which Signs & Markings work is requested, dipsatc
 6. A supervisor reviews the work order and closes it.
 
 
-Each work order task may have one of six statuses:
+Each work order may have one of six statuses:
 
 Status                  | Description|
 :---                    | :--- |
