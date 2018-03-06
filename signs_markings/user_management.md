@@ -26,7 +26,7 @@ User Role       | Create Work Orders | Edit Work Orders | Close Work Orders |Cre
 
 2. Click the **Add Account** button at the top of the page.
 
-3. Complete the **New Account** You will need to select each user role that applies to the account you are creating. Follow the instructions on the form to select the appropriate role for the account:
+3. Complete the **New Account** form. You will need to select each user role that applies to the account you are creating. Follow the instructions on the form to select the appropriate role for the account:
 
     <img src="../images/user_role_selection.png" width="300">
 
