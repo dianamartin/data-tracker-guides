@@ -1,4 +1,4 @@
-[Data Tracker Guides](https://github.com/cityofaustin/data-tracker-guides]) > [Signs & Markings](https://github.com/cityofaustin/data-tracker-guides/tree/master/signsmarkings) > [Complete Task](https://github.com/cityofaustin/data-tracker-guides/blob/master/signsmarkings/complete_task_tech.md)
+[Data Tracker Guides](https://github.com/cityofaustin/data-tracker-guides) > [Signs & Markings](https://github.com/cityofaustin/data-tracker-guides/tree/master/signsmarkings) > [Complete Task](https://github.com/cityofaustin/data-tracker-guides/blob/master/signsmarkings/complete_task_tech.md)
 
 #  Complete a Work Task
 
