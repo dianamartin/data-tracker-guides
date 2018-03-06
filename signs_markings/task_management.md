@@ -26,7 +26,7 @@ There are two mechanisms for creating tasks:
 When a Markings work order is created, tasks for each of the selected workgroups are created automatically. See [Create a Work Order](create_work_order_non_tech.md) for more details.
 
 ##### Manually Create a Task
-Tasks can be manually added to any work order, provided the work order is is not **CLOSED** or **ON HOLD**. See [Manage Work Orders (COMING SOON)](#TODO) for more details.
+Tasks can be manually added to any work order, provided the work order is not **CLOSED** or **ON HOLD**. See [Manage Work Orders (COMING SOON)](#TODO) for more details.
 
 
 ## Find Tasks

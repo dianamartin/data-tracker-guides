@@ -48,7 +48,7 @@ For example, to create a signal technician user, you will select the user roles 
 
 3. Click the **Edit Account** icon in the right-most column of the User Accounts table.
 
-4. Update the account as needed and click **Update Account** to save changes. See [Create a User Account](#create-a-new–user-account) for more details about selecting user roles.
+4. Update the account as needed and click **Update Account** to save changes. See [Create a New User Account](#create-a-new-user-account) for more details about selecting user roles.
 
 
 
