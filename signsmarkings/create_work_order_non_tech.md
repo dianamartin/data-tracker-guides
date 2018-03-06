@@ -1,10 +1,13 @@
-[Data Tracker Guides](https://github.com/cityofaustin/data-tracker-guides) > [Signs & Markings](https://github.com/cityofaustin/data-tracker-guides/tree/master/signsmarkings) > [Create Work Order (Non-Technician)](https://github.com/cityofaustin/data-tracker-guides/blob/master/signsmarkings/create_work_order_non_tech.md)
+[Data Tracker Guides](./) > [Signs & Markings](/signsmarkings#signs-and-markings-data-tracker-user-guides) > [Create Work Order (Non-Technician)](create_work_order_non_tech.md)
 
 #  Create New Work Order (Non-Technician)
 ##### User Role Required: Viewer
+##### See also: [Create Work Order (Non-Technician)](create_work_order_tech.md)
 
 1. Login: http://transportation.austintexas.io/data-tracker/#home/work-orders-markings/
+
 2. Click "New Work Order" button.
+
 3. Complete New Work Order form:
     - **Work Type**: Signs or Markings | Required
     
